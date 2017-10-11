@@ -1,0 +1,15 @@
+{
+    "title": "Make sure the Text Box Active State looks like this",
+    "baseURL": "https:\/\/www.domainsarerequired.com\/New",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758397",
+        "subfolder": "\/New",
+        "firstpartycookies": true,
+        "cookiedomain": "domainsarerequired.com"
+    }
+}
